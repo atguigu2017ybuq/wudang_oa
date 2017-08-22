@@ -3,12 +3,8 @@
 111111111111111111111111111
 111111111111111111111111111
 111111111111111111111111111
-222222222222222222222222222]
-5156515156156156151516515615615616515
-<<<<<<< HEAD
+222222222222222222222222222
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-=======
-edit by feature
->>>>>>> feature_pay
+aaaaaaaaaaaaaaaaaaaaaaaaaaa
+edit by linghuchong 我是令狐冲
